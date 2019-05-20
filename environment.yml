@@ -1,0 +1,5 @@
+name: decoded-data-insights-notebook
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
